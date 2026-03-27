@@ -169,8 +169,8 @@ MIT License - see `LICENSE` file for details.
 
 **Your Name**
 
-- GitHub: [@username](https://github.com/username)
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
+- GitHub: [@username](https://github.com/StefoXCaffeine)
+- LinkedIn: [linkedin.com/in/username](www.linkedin.com/in/stefano-corrao)
 
 ---
 
